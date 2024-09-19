@@ -23,7 +23,6 @@ export default function Interview({ params }) {
       .select()
       .from(MockInterview)
       .where(eq(MockInterview.mockId, params.interviewId));
-
     setInterviewData(result[0]);
   };
   return (
