@@ -9,13 +9,13 @@ export default function Home() {
       <h1
         className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
       >
-        Prepare for your Interview
+        
 
-        <span className="sm:block"> Mock Interview app</span>
+        <span className="sm:block"> Ai-Mock Interview app</span>
       </h1>
 
       <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
-  Just enter the job details and prepare for interviews.
+  Just enter the job details and prepare for interviews without entering personal details.
           </p>
 
       <div className="mt-8 flex flex-wrap justify-center gap-4">
