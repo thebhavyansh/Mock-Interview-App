@@ -36,6 +36,8 @@ export default function Page() {
           Welcome to Mock.Ai 🦑
         </h1>
 
+  <p>Signup without sharing personal information</p>
+
 
         <SignIn />
       </div>
